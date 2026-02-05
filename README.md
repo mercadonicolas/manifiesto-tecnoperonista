@@ -37,7 +37,7 @@ Este repositorio tiene un solo archivo de código: este manifiesto. Está escrit
 
 Para pedir acceso para contribuir, [hacé clic acá](https://github.com/mercadonicolas/manifiesto-tecnoperonista/fork) para hacer un fork donde subir los cambios que quieras integrar a este manifiesto.
 
-## El Manifiesto
+# El Manifiesto
 
 1. El peronismo como corriente política debe articular el desarrollo tecnológico y el desarrollo humano para garantizar el futuro de la nación
 2. 
