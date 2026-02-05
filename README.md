@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="mano-render2" src="https://github.com/user-attachments/assets/7ab5ef94-6bce-40fa-a79e-5e0a8b984732" />
+
 # manifiesto-tecnoperonista
 Repositorio del Manifiesto Tecnoperonista para la reconstrucción nacional. Colaborá enviando tu pull request.
 
