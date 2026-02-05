@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="mano-render2" src="https://github.com/user-attachments/assets/7ab5ef94-6bce-40fa-a79e-5e0a8b984732" />
 
-# manifiesto-tecnoperonista
-Repositorio del Manifiesto Tecnoperonista para la reconstrucción nacional. Colaborá enviando tu pull request.
+# Manifiesto Tecnohumanista
+Repositorio del Manifiesto Tecnohumanista para la reconstrucción nacional. Colaborá enviando tu pull request.
 
 ## Motivación
 
@@ -35,9 +35,10 @@ Este repositorio tiene un solo archivo de código: este manifiesto. Está escrit
 
 #### Creá tu fork
 
-Para pedir acceso para contribuir, [hacé clic acá](https://github.com/mercadonicolas/manifiesto-tecnoperonista/fork) para hacer un fork donde subir los cambios que quieras integrar a este manifiesto.
+Para pedir acceso para contribuir, [hacé clic acá](https://github.com/mercadonicolas/manifiesto-tecnohumanista/fork) para hacer un fork donde subir los cambios que quieras integrar a este manifiesto.
 
 # El Manifiesto
 
-1. El peronismo como corriente política debe articular el desarrollo tecnológico y el desarrollo humano para garantizar el futuro de la nación
-2. Todo futuro tecnológico para humanos requiere del reconocimiento de la preexistencia de los pueblos originarios
+1. Un humanismo nacional debe articular el desarrollo de las tecnologías y el desarrollo humano para garantizar el futuro de la nación
+2. Todo futuro tecnológico para humanos requiere del reconocimiento de la preexistencia de todos los pueblos originarios, incluidos nosotros
+3.
