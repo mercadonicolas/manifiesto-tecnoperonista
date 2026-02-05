@@ -27,12 +27,12 @@ Por eso, para contribuir al manifiesto, el primer paso es contribuir a este repo
 
 #### Git
 
-Git es la tecnología detrás de Github, es un sistema de versionado que permite registrar e integrar históricamente el trabajo colaborativo digital. Especialmente sobre textos y textos que contengan códigos.
+Git es la tecnología detrás de Github, es un sistema de versionado que permite registrar e integrar históricamente el trabajo colaborativo digital. Especialmente sobre textos y textos que contengan códigos. Aprendé más sobre Git en su [página oficial](https://git-scm.com/).
 
 #### Markdown
 
-Este repositorio tiene un solo archivo de código: este manifiesto. Está escrito en Markdown, un lenguaje de marcado para formatear textos. Aprendé más acá.
+Este repositorio tiene un solo archivo de código: este manifiesto. Está escrito en Markdown, un lenguaje de marcado para formatear textos. Aprendé más acá: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 
 #### Creá tu fork
 
-Para pedir acceso para contribuir, hacé clic acá para hacer un fork donde subir los cambios que quieras integrar a este manifiesto.
+Para pedir acceso para contribuir, [hacé clic acá](https://github.com/mercadonicolas/manifiesto-tecnoperonista/fork) para hacer un fork donde subir los cambios que quieras integrar a este manifiesto.
